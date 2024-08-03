@@ -14,7 +14,7 @@
 - Open Command Prompt or Powershell.
       - python app.py
 
-# MediCator
+# Medicator
 Blockchain based pharmaceuticals tracking application.
 
 ## Problem It Solves 🎯
